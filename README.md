@@ -2,7 +2,7 @@
 ROBOT BEVERAGE SOMMELIER USING ROBOT ARM WITH DEEP LEARNING
 A Project I finished in my 3rd year in NCKU with my partner FallenPegasus77.
 
-His github Link: https://github.com/hank9102
+His github Link: https://github.com/FallenPegasus77
 
 Demo Video Link: https://drive.google.com/file/d/1cMYtHvahYXxD43X0BXfWBnPON07KAicG/view?usp=sharing
 
